@@ -22,7 +22,7 @@ Vaccination data by age is unavailable for Idaho, counties in Hawaii and several
 
 Get the data in an easy to use [Excel file](https://github.com/khnews/2022-child-covid-vaccination-rates-data/raw/main/data/child-covid-vaccination-rates.xlsx) or read on to use the CSV files.
 
-Two R scripts create all of the data files used in this story. First, [get-population.R](scripts/get-population.R) compiles population numbers for children ages 5 to 11 by state and by county. Then [get-child-vaccine-rates.R](scripts/get-child-vaccine-rates.R) retrieves data from the CDC and computes rates.
+Two R scripts create all of the data files used in this story. First, [get-populations.R](scripts/get-populations.R) compiles population numbers for children ages 5 to 11 by state and by county. Then [get-child-vaccine-rates.R](scripts/get-child-vaccine-rates.R) retrieves data from the CDC and computes rates.
 
 The key data files used in the story are:
 
