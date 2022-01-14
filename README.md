@@ -1,6 +1,6 @@
 # Data: As Omicron Surges, Effort to Vaccinate Young Children Stalls
 
-This repository includes data and analysis used in KHN's January 14, 2022, story "As Omicron Surges, Effort to Vaccinate Young Children Stalls".
+This repository includes data and analysis used in KHN's January 14, 2022, story [As Omicron Surges, Effort to Vaccinate Young Children Stalls.](https://khn.org/news/article/as-omicron-surges-effort-to-vaccinate-young-children-stalls/)
 
 ## Attribution
 
